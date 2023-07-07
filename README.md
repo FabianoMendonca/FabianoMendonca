@@ -1,10 +1,13 @@
 ### Olá estranho, me chamo Fabiano :)
-<br>
+<a>
+  <br>
+</a>
 
 
 - 👽 Bacharel em Engenharia de Computação pela Universidade Federal do Rio Grande.
 - 👾 Cursando Tecnologia em Analise e Desenvolvimento de Sistemas no IFRS.
 - 🤝 Bolsista - Machine Learning com AWS - Compass UOL
+- ❤️ Áreas de interesse: Machine Learning, Neural Network, Backend, Cloud Computing, Biotecnologia.
 - 🎶 Sou apaixonado por musica e toco guitarra :)
 
 ## 
